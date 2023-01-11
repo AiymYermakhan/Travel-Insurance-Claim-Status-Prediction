@@ -1,1 +1,2 @@
 # Travel-Insurance-Claim-Status-Prediction
+We can say that the use of classification models and data processing and observation of the results that were made during data analysis, we were able to achieve useful ideas. For our project, we use agencies about the destination, the type of agency, the name of the product, the floor. And these data were used for a random forest classifier, hyperparameter settings, logistics regression, classifier of decisions, KNN, imbalance to get the desired results.
